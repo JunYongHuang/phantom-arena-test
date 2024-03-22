@@ -8,7 +8,7 @@
  */
 
 
-var game_version = "20240321_04";
+var game_version = "20240322_01";
 function getGameVersion(){
 	return game_version;
 }
