@@ -4,11 +4,11 @@
  * @Author: hjy
  * @Date: 2023-12-21 10:15:05
  * @LastEditors: hjy
- * @LastEditTime: 2024-03-25 14:27:31
+ * @LastEditTime: 2024-03-27 18:40:55
  */
 
 
-var game_version = "20240327_01";
+var game_version = "20240327_02";
 function getGameVersion(){
 	return game_version;
 }
