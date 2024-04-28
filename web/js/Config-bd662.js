@@ -8,7 +8,7 @@
  */
 
 
-var game_version = "20240426_02";
+var game_version = "20240429_01";
 
 var v_type = 1; //0=QA；1=S0; 2=SN;
 
